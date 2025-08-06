@@ -1,12 +1,10 @@
-# code-snippets
-
 # Code Snippet Library
-## �� Python Snippets
+##  Python Snippets
 - [Loops in Python](loops.py)
 - [Recursion Example](recursion.py)
-## ☕ Java Snippets
+## Java Snippets
 - [OOP Demo](OOPDemo.java)
 - [Sorting Techniques](Sorting.java)
-## �� JavaScript Snippets
+## JavaScript Snippets
 - [DOM Manipulation](dom-manipulation.js)
 - [Fetch API Example](fetchAPI.js)
